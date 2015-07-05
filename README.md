@@ -1,5 +1,10 @@
 ## Installation
 
+```bash
+mvn clean install
+```
+
+
 ```xml
 <dependency>
   <groupId>com.wacai</groupId>
